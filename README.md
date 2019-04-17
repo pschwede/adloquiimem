@@ -37,5 +37,5 @@ bin/deactivate
 After that, you can either manually run `run.sh` or add an entry in your cron tab (`crontab -e`) like this:
 
 ```bash
-/your/home/adloquiimem/run.sh
+5 10,17 * * * /your/home/adloquiimem/run.sh
 ```
