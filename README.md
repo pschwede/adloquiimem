@@ -4,7 +4,8 @@
 An experimental bot that reposts old tweets of a particular user.
 
 * Downloads older tweets at each run
-* Posts them with a `@mention` of the original poster
+* Picks a random post of them and posts it with a `@mention` of the original poster
+* Proceeds so with each post that mentions its nick
 * Cron compatible
 
 
